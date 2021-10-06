@@ -1,0 +1,16 @@
+/* textarea {
+    width:100%; /*답변등록 시 사용하는 텍스트 창의 넓이를 100%로 하고
+}
+input[type=submit]{
+    margin-top:10px; /*'답변등록' 버튼 상단에 10픽셀의 마진을 설정
+} */
+
+/* 부트스트랩의 사용으로 style.css는 필요없음 */
+/* static은 정적파일을 의미
+    사진이나 css파일 등이 해당된다.
+    setting.py로 이동하여 static 디렉토리를 추가해준다 */
+
+.comment{
+    border-top:dotted 1px #ddd;
+    font-size:0.7em;
+}
